@@ -1,5 +1,8 @@
-# dnaPipeTE
+## dnaPipeTE
 Analysis of transposable elements using dnaPipeTE
+
+## This sbatch script can run dnaPipeTE on the Harvard Cannon cluster
+
 
 #!/bin/bash
 
